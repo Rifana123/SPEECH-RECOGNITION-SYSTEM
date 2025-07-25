@@ -30,3 +30,4 @@ This project demonstrates how to control devices using simple serial commands an
 
 OUTPUT:
 
+<img width="1918" height="803" alt="Image" src="https://github.com/user-attachments/assets/e9d5c284-b40b-48be-8ad2-bc0ebb8eb893" />
